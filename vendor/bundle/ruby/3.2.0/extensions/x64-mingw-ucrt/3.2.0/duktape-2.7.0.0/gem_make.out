@@ -1,0 +1,21 @@
+current directory: C:/github blog/oseokho.github.io/blog/vendor/bundle/ruby/3.2.0/gems/duktape-2.7.0.0/ext/duktape
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: C:/github blog/oseokho.github.io/blog/vendor/bundle/ruby/3.2.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20240522-27304-jz97gx sitelibdir\=./.gem.20240522-27304-jz97gx clean
+
+current directory: C:/github blog/oseokho.github.io/blog/vendor/bundle/ruby/3.2.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20240522-27304-jz97gx sitelibdir\=./.gem.20240522-27304-jz97gx
+generating duktape_ext-x64-mingw-ucrt.def
+compiling duktape.c
+compiling duktape_ext.c
+linking shared-object duktape_ext.so
+
+current directory: C:/github blog/oseokho.github.io/blog/vendor/bundle/ruby/3.2.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20240522-27304-jz97gx sitelibdir\=./.gem.20240522-27304-jz97gx install
+/usr/bin/install -c -m 0755 duktape_ext.so ./.gem.20240522-27304-jz97gx
+
+current directory: C:/github blog/oseokho.github.io/blog/vendor/bundle/ruby/3.2.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20240522-27304-jz97gx sitelibdir\=./.gem.20240522-27304-jz97gx clean
